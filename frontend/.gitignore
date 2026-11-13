@@ -102,3 +102,11 @@ playwright/.cache/
 # ==============================
 *.orig
 *.rej
+
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+.DS_Store
